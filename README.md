@@ -40,4 +40,11 @@ This is a media player that can play .mp3 files and allows you to control the tr
    ```bash
    git clone https://github.com/your-username/gesture-media-player.git
    cd gesture-media-player
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+3. Run the project:
+   ```bash
+   python main.py
+
 
